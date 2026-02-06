@@ -1,0 +1,44 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": []
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "code",
+      "execution_count": 3,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/",
+          "height": 0
+        },
+        "id": "FoExdGxdR9Tr",
+        "outputId": "75e8e4ed-5027-4468-84b7-9d9ddaa68171"
+      },
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "Andrew Kamau\n",
+            "IYF Data Science and Ai class of 2026\n"
+          ]
+        }
+      ],
+      "source": [
+        "print('Andrew Kamau')\n",
+        "print('IYF Data Science and Ai class of 2026')"
+      ]
+    }
+  ]
+}
